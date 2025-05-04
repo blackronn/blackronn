@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning .Net Framework</p>
+<p align="left">I'm from Istanbul/Turkey <br><br>- 📚 I'm currently learning .Net Framework</p>
 
 ###
 
